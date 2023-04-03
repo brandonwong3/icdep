@@ -1,1 +1,1 @@
-#extension: How can we add additional features to the protocol without breaking previous functionality?
+# How can we add additional features to the protocol without breaking previous functionality?
