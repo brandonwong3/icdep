@@ -7,4 +7,4 @@
 #### To identify any ASCII text, Unicode text, or binary values, we can put a shape on a card differentiating the type of message. Circle indicating ASCII text, Triangle indicating Unicode text, and square indicating binary values.
 
 ### Keep a record of what nodes the card has passed through
-#### We can do this by assigning each node to their own unique identifier. Similar to class, the node would communicate when they receive and send the card. But this time, would document it as a logging system, so it will be known when and if the card passed through said node.
+#### We can do this by assigning each node to their own unique identifier. Similar to class, the node would communicate when they receive and send the card. But this time, would document it as a logging system, so it will be known when and if the card passed through a said node.
